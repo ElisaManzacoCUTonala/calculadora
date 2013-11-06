@@ -1,0 +1,29 @@
+<html> 
+ 
+ <body>
+  <script src="funciones.js"></script>
+  
+   </body>
+   <p> Practica 10</p>
+   <p> Calculadora</p>
+<table>
+   <label for="txtNombre">NUMERO 1</label><br/>
+  <input  id = "n1" type="text" name="numero_uno" /><br/>
+  
+</body>
+
+      
+  <label for="txtNombre">NUMERO 2</label><br/><br/>
+   <input  id = "n2" type="text" name="numero_dos" /><br/>
+ 
+ 
+</body>
+
+<input id ="btn1"  type="submit" value="+" /> <input id="btn2" type="submit" value="-" />
+<input  id = "btn3"type="submit" value="*" /><input id = "btn4"type="submit" value="/" /><br/>
+<label for="txtNombre">RESULTADO</label><br/>
+<input  id = "resul" type="text" name="resultado" />
+</table>
+
+</body>
+</html>
